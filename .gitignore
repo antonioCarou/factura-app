@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
+
+# PDF generados
+backend/facturas_pdf/
+
+# Logs
+*.log
